@@ -103,4 +103,4 @@ FROM
 	)main
 
 GROUP BY color_name
-ORDER BY 2 desc
+ORDER BY 2 DESC
